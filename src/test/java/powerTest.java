@@ -1,5 +1,4 @@
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assertions;
 import powerpackage.powerFinder;
 
 public class powerTest {
